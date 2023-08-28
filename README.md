@@ -11,6 +11,10 @@
 
 ## Aula 02 - "barras"
   >[!IMPORTANT]
+>>- #include <stdio.h>
+>- #include <stlib.h>
+>- #include <locate.h>
+>- #include <math.h>
 >-\n = pular linha
 >-\t = "tab"
 >-\a = barulinho?
