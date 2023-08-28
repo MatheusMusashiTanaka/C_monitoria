@@ -27,11 +27,11 @@ resumo da monitoria sobre C:
 <details>
 <summary>Tipos de Variáveis:</summary>
 
-- char = %%c;
-- int = %%d;
-- long int = %%ld;
-- float = %%f, %%2f;
-- double = %%if;
+- char = %c;
+- int = %d;
+- long int = %ld;
+- float = %f, %2f;
+- double = %if;
 
 </details>
 
