@@ -6,7 +6,7 @@ resumo da monitoria sobre C:
 
 
 ### Bibliotecas:
->-[!IMPORTANT]
+>[!IMPORTANT]
  >- #include <stdio.h>;
  >- #include <stdlib.h>;
  >- #include <locale.h>;
