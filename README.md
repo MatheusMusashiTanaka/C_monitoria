@@ -14,14 +14,14 @@ resumo da monitoria sobre C:
 </details>
 
 ### Barras
-
+```ruby
 <details>
 <summary>Barras:</summary>
-```ruby
+``` 
 - \n = quebra de linha
 - \t = parágrafo
 - \a = alerta
-```
+
 </details>
 
 ### Tipos de Variáveis
