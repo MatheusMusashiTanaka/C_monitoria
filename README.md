@@ -1,32 +1,38 @@
-# C_monitoria
+ C_monitoria
 
- Tudo que eu consegui anotar da monitoria 
+resumo da monitoria sobre C:
 
-## Aula 01 
- >[!IMPORTANT]
->- #include <stdio.h>
->- #include <stlib.h>
->- #include <locate.h>
->- #include <math.h>
+## Aula 01
 
-<Details>
-<summary>Barras</summary>
- 
-\n = quebra de linha
+### Bibliotecas:
 
-\t = paragrafo
+- #include <stdio.h>
+- #include <stdlib.h>
+- #include <locale.h>
+- #include <math.h>
 
-\a = alerta
-<\Details>
-<Details>
-<summary>Tipos de variaveis</summary>
+### Barras
 
->[!IMPORTANT]
->- char = %c;
->- int = %d;
->- long int = %ld;
->- float = %f , %2f;
->- double = %if;
+<details>
+<summary>Detalhes sobre Barras</summary>
 
+- \n = quebra de linha
+- \t = parágrafo
+- \a = alerta
+
+</details>
+
+### Tipos de Variáveis
+
+<details>
+<summary>Detalhes sobre Tipos de Variáveis</summary>
+
+- char = %%c;
+- int = %%d;
+- long int = %%ld;
+- float = %%f, %%2f;
+- double = %%if;
+
+</details>
 
  
