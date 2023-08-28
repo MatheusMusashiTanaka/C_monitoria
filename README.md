@@ -14,18 +14,18 @@ resumo da monitoria sobre C:
 ### Barras
 
 <details>
-<summary>Detalhes sobre Barras</summary>
-
+<summary>Barras:</summary>
+```ruby
 - \n = quebra de linha
 - \t = parágrafo
 - \a = alerta
-
+```
 </details>
 
 ### Tipos de Variáveis
 
 <details>
-<summary>Detalhes sobre Tipos de Variáveis</summary>
+<summary>Tipos de Variáveis:</summary>
 
 - char = %%c;
 - int = %%d;
