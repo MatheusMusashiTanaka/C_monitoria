@@ -36,7 +36,7 @@ resumo da monitoria sobre C:
 
 </details>
 
-### Scaneando
+### Escaneando
  Como escanear:
  
  - scanf("%d" , variavel),
