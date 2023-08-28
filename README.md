@@ -2,7 +2,7 @@
 
  Tudo que eu consegui anotar da monitoria 
 
-## Aula 01 - Blibiotecas 
+## Aula 01 
  >[!IMPORTANT]
 >- #include <stdio.h>
 >- #include <stlib.h>
@@ -10,14 +10,4 @@
 >- #include <math.h>
 
 <details>
-<sumarry>"barras"</sumarry>
-  >[!IMPORTANT]
->-\n = pular linha
->-\t = "tab"
->-\a = barulinho?
-
-**coisas**
-```ruby
-qualquer coisa
-```
-<details>
+<sumarry>Barras</sumarry>
