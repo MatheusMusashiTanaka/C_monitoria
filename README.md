@@ -37,11 +37,9 @@ resumo da monitoria sobre C:
 </details>
 
 ### Scaneando
-
-<details>
- Como escanear:
+ <summary>Como escanear:<\summary>
  - scanf("%d" , variavel),
-</details>
+
 
 ```ruby
 exemplo
