@@ -11,9 +11,11 @@
 
 <Details>
 <summary>Barras</summary>
-  >[!IMPORTANT]
->- "\n quebra de linha"
->- "\t paragrafo"
->- "\a alerta"
+ 
+\n quebra de linha
+
+\t paragrafo
+
+\a alerta
 
  
