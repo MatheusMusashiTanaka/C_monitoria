@@ -10,7 +10,7 @@
 >- #include <math.h>
 
 ## Aula 02 - "barras"
->[!IMPORTANT]
+  >[!IMPORTANT]
 >-\n = pular linha
 >-\t = "tab"
 >-\a = barulinho?
