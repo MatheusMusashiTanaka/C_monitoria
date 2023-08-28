@@ -9,6 +9,6 @@
 >- #include <locate.h>
 >- #include <math.h>
 
-<details>
-<sumarry>Barras</sumarry>
-<\details>
+<Details>
+<summary>TIPOS NÚMERICOS!</summary>
+  
