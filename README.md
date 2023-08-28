@@ -10,5 +10,5 @@
 >- #include <math.h>
 
 <Details>
-<summary>TIPOS NÚMERICOS!</summary>
+<summary>Barras</summary>
   
