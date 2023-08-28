@@ -9,12 +9,9 @@
 >- #include <locate.h>
 >- #include <math.h>
 
-## Aula 02 - "barras"
+<details>
+<sumarry>"barras"</sumarry>
   >[!IMPORTANT]
->>- #include <stdio.h>
->- #include <stlib.h>
->- #include <locate.h>
->- #include <math.h>
 >-\n = pular linha
 >-\t = "tab"
 >-\a = barulinho?
@@ -23,3 +20,4 @@
 ```ruby
 qualquer coisa
 ```
+<details>
