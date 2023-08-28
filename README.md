@@ -12,10 +12,19 @@
 <Details>
 <summary>Barras</summary>
  
-\n quebra de linha
+\n = quebra de linha
 
-\t paragrafo
+\t = paragrafo
 
-\a alerta
+\a = alerta
 
+<Details>
+<summary>Tipos de variaveis</summary>
+
+>[!IMPORTANT]
+>-char = %c
+>-int = %d
+>-long int = %ld
+>-float = %f , %2f
+>-double = %if
  
