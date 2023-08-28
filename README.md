@@ -6,11 +6,11 @@ resumo da monitoria sobre C:
 
 
 ### Bibliotecas:
-
-- #include <stdio.h>
-- #include <stdlib.h>
-- #include <locale.h>
-- #include <math.h>
+>-[!IMPORTANT]
+ >- #include <stdio.h>;
+ >- #include <stdlib.h>;
+ >- #include <locale.h>;
+ >- #include <math.h>;
 
 ### Barras
 
