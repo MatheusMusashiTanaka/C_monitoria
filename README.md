@@ -36,4 +36,24 @@ resumo da monitoria sobre C:
 
 </details>
 
+### Scaneando
+
+<details>
+ <summary>Como escanear</summary>
+ - scanf("%d" , variavel),
+</details>
+
+```ruby
+exemplo
+#include <stdio.h>
+void main() {
+    int x = 0;
+
+    printf("numero:");
+    scanf("%d", &x);
+    int variavel = x+ 9;
+    printf("%d", variavel);
+}
+```
+
  
