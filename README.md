@@ -4,14 +4,13 @@ resumo da monitoria sobre C:
 
 ## Aula 01
 
+
 ### Bibliotecas:
-<details>
-<summary>blibiotecas:</summary>
->- #include "<stdio.h>";
->- #include "<stdlib.h>";
->- #include "<locale.h>";
->- #include "<math.h>";
-</details>
+
+- #include <stdio.h>
+- #include <stdlib.h>
+- #include <locale.h>
+- #include <math.h>
 
 ### Barras
 
