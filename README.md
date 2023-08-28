@@ -3,4 +3,8 @@
  Tudo que eu consegui anotar da monitoria 
 
  ## Aula 01 
- >[important]
+ >[!blibiotecas]
+>- #include <stdio.h>
+>- #include <stlib.h>
+>- #include <locate.h>
+>- #include <math.h>
