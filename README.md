@@ -17,7 +17,7 @@
 \t = paragrafo
 
 \a = alerta
-
+<\Details>
 <Details>
 <summary>Tipos de variaveis</summary>
 
