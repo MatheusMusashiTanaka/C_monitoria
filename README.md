@@ -11,4 +11,9 @@
 
 <Details>
 <summary>Barras</summary>
-  
+  >[!IMPORTANT]
+>- \n quebra de linha
+>- \t paragrafo
+>- \a alerta
+
+ 
