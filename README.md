@@ -7,10 +7,10 @@ resumo da monitoria sobre C:
 ### Bibliotecas:
 <details>
 <summary>blibiotecas:</summary>
->- #include <stdio.h>;
->- #include <stdlib.h>;
->- #include <locale.h>;
->- #include <math.h>;
+>- #include "<stdio.h>";
+>- #include "<stdlib.h>";
+>- #include "<locale.h>";
+>- #include "<math.h>";
 </details>
 
 ### Barras
