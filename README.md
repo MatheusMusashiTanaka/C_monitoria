@@ -39,7 +39,7 @@ resumo da monitoria sobre C:
 ### Scaneando
 
 <details>
- <summary>Como escanear</summary>
+ Como escanear:
  - scanf("%d" , variavel),
 </details>
 
