@@ -37,7 +37,8 @@ resumo da monitoria sobre C:
 </details>
 
 ### Scaneando
- <summary>Como escanear:<\summary>
+ Como escanear:
+ 
  - scanf("%d" , variavel),
 
 
