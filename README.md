@@ -56,8 +56,9 @@ void main() {
 ```
 
 ### Tipos de portas logicas
+
 <details>
-<sumarry>Portas</sumarry>
+<summary>Portas</summary>
  - && = E
  - || = OU
  - ! = negacao
