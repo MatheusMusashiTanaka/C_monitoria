@@ -61,11 +61,8 @@ void main() {
 <summary>Portas</summary>
  
 - && = E
-- 
 - || = OU
-- 
 - ! = negacao
-- 
 </details>
 
  
