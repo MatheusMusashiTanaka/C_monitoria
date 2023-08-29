@@ -65,4 +65,14 @@ void main() {
 - ! = negacao
 </details>
 
+### Estruturas de decisao
+
+<details>
+<summary>decisoes</summary>
+ 
+- if = se
+- else if = e se
+- else = caso contrario
+</details>
+
  
