@@ -75,4 +75,27 @@ void main() {
 - else = caso contrario
 </details>
 
+
+```ruby
+#include <stdio.h>
+
+/////variaveis
+
+
+////////executar
+
+int main(){
+    int num = 0;
+    int comp = 0;
+	printf("Valor do num:");
+	scanf("%d",&num);
+	loop:
+	if (comp < num) {
+        printf("\"Hello world\"\n");
+        comp = comp + 1;
+        goto loop;
+}
+}
+```
+
  
