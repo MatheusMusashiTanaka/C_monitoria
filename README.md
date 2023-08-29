@@ -59,6 +59,7 @@ void main() {
 
 <details>
 <summary>Portas</summary>
+ 
 - && = E
 - || = OU
 - ! = negacao
