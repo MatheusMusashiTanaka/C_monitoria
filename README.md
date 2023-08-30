@@ -75,6 +75,7 @@ void main() {
 - else = caso contrario
 </details>
 
+### exemplo de goto
 
 ```ruby
 #include <stdio.h>
